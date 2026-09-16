@@ -1,6 +1,6 @@
 ### Hey there! 👋 I’m Nikan
 
-I'm an AI researcher and Computer Engineering student at Sharif University of Technology.
+I'm an AI researcher and Computer Science student at Oxford.
 
 I’m passionate about creating AI systems that actually work in the real world; models and tools that help people, make technology more reliable, or power intelligent behaviors in interactive systems and games. Whether it’s a research idea or a weekend project, I love turning concepts into usable, practical solutions.
 
